@@ -1,4 +1,4 @@
-package com.rakuten.zuul.gateway;
+package com.test.zuul.gateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
